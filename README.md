@@ -8,10 +8,13 @@ Started: April 1st 2026
 |-----|------|---------|---------|------------|
 | 1 | Apr 1 | Contains Duplicate | HashSet | Easy |
 | 1 | Apr 1 | Valid Anagram | HashMap | Easy |
+| 2 | Apr 2 | Two Sum | HashMap | Easy |
+| 2 | Apr 2 | Group Anagram | HashMap | Medium |
+
 
 ## Stats
-- Problems Solved: 2
-- Current Streak: 1 day
+- Problems Solved: 4
+- Current Streak: 2 day
 - Target: 150 problems by August 2026
 
 ## Patterns Covered
@@ -23,4 +26,6 @@ Started: April 1st 2026
 
 daily-solutions/<br>
 ├── 📄 [Contains Duplicate](apr-01-contains-duplicate.js)<br>
-└── 📄 [Valid Anagram](/apr-01-valid-anagram.js)
+└── 📄 [Valid Anagram](/apr-01-valid-anagram.js)<br>
+└── 📄 [Two Sum](/apr-02-two-sum.js)<br>
+└── 📄 [Group Anagram](/apr-02-group-anagram.js)<br>
