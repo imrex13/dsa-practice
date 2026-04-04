@@ -12,10 +12,12 @@ Started: April 1st 2026
 | 2 | Apr 2 | Group Anagrams | HashMap | Medium |
 | 3 | Apr 3 | Top K Frequent Elements | HashMap + Bucket Sort | Medium |
 | 3 | Apr 3 | Encode and Decode Strings | Length-Prefix Encoding | Medium |
+| 4 | Apr 4 | Product of Array Except Self | Prefix + Suffix Product | Medium |
+| 4 | Apr 4 | Valid Sudoku | HashSet + Box Index Math | Medium |
 
 ## Stats
-- Problems Solved: 6
-- Current Streak: 3 days
+- Problems Solved: 8
+- Current Streak: 4 days
 - Target: 150 problems by August 2026
 
 ## Patterns Covered
@@ -24,6 +26,8 @@ Started: April 1st 2026
 - HashMap
 - Bucket Sort
 - Length-Prefix Encoding
+- Prefix + Suffix Product
+- Box Index Formula (Math.floor(i/3)*3 + Math.floor(j/3))
 
 ## 📁 Structure
 
@@ -33,4 +37,6 @@ daily-solutions/<br>
 ├── 📄 [Two Sum](apr-02-two-sum.js)<br>
 ├── 📄 [Group Anagrams](apr-02-group-anagram.js)<br>
 ├── 📄 [Top K Frequent Elements](apr-03-top-k-frequent-elements.js)<br>
-└── 📄 [Encode and Decode Strings](apr-03-encode-decode-strings.js)<br>
+├── 📄 [Encode and Decode Strings](apr-03-encode-decode-strings.js)<br>
+├── 📄 [Product of Array Except Self](apr-04-product-of-array-except-self.js)<br>
+└── 📄 [Valid Sudoku](apr-04-valid-sudoku.js)<br>
