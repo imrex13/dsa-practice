@@ -14,10 +14,12 @@ Started: April 1st 2026
 | 3 | Apr 3 | Encode and Decode Strings | Length-Prefix Encoding | Medium |
 | 4 | Apr 4 | Product of Array Except Self | Prefix + Suffix Product | Medium |
 | 4 | Apr 4 | Valid Sudoku | HashSet + Box Index Math | Medium |
+| 5 | Apr 5 | Longest Consecutive Sequence | HashSet | Medium |
+
 
 ## Stats
-- Problems Solved: 8
-- Current Streak: 4 days
+- Problems Solved: 9
+- Current Streak: 5 days
 - Target: 150 problems by August 2026
 
 ## Patterns Covered
@@ -28,6 +30,7 @@ Started: April 1st 2026
 - Length-Prefix Encoding
 - Prefix + Suffix Product
 - Box Index Formula (Math.floor(i/3)*3 + Math.floor(j/3))
+- Consecutive Sequence Detection
 
 ## 📁 Structure
 
@@ -40,3 +43,4 @@ daily-solutions/<br>
 ├── 📄 [Encode and Decode Strings](apr-03-encode-decode-strings.js)<br>
 ├── 📄 [Product of Array Except Self](apr-04-product-of-array-except-self.js)<br>
 └── 📄 [Valid Sudoku](apr-04-valid-sudoku.js)<br>
+└── 📄 [Longest Consecutive Sequence](apr-05-longest-consecutive-sequence.js)<br>
