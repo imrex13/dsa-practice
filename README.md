@@ -15,11 +15,12 @@ Started: April 1st 2026
 | 4 | Apr 4 | Product of Array Except Self | Prefix + Suffix Product | Medium |
 | 4 | Apr 4 | Valid Sudoku | HashSet + Box Index Math | Medium |
 | 5 | Apr 5 | Longest Consecutive Sequence | HashSet | Medium |
-
+| 6 | Apr 6 | Valid Palindrome | Two Pointers | Easy |
+| 6 | Apr 6 | Two Sum II | Two Pointers | Medium |
 
 ## Stats
-- Problems Solved: 9
-- Current Streak: 5 days
+- Problems Solved: 11
+- Current Streak: 6 days
 - Target: 150 problems by August 2026
 
 ## Patterns Covered
@@ -31,6 +32,7 @@ Started: April 1st 2026
 - Prefix + Suffix Product
 - Box Index Formula (Math.floor(i/3)*3 + Math.floor(j/3))
 - Consecutive Sequence Detection
+- Two Pointers
 
 ## 📁 Structure
 
@@ -41,6 +43,8 @@ daily-solutions/<br>
 ├── 📄 [Group Anagrams](apr-02-group-anagram.js)<br>
 ├── 📄 [Top K Frequent Elements](apr-03-top-k-frequent-elements.js)<br>
 ├── 📄 [Encode and Decode Strings](apr-03-encode-decode-strings.js)<br>
-├── 📄 [Product of Array Except Self](apr-04-product-of-array-except-self.js)<br>
-└── 📄 [Valid Sudoku](apr-04-valid-sudoku.js)<br>
-└── 📄 [Longest Consecutive Sequence](apr-05-longest-consecutive-sequence.js)<br>
+├── 📄 [Product of Array Except Self](apr-04-product-except-self.js)<br>
+├── 📄 [Valid Sudoku](apr-04-valid-sudoku.js)<br>
+├── 📄 [Longest Consecutive Sequence](apr-05-longest-consecutive-sequence.js)<br>
+├── 📄 [Valid Palindrome](apr-06-valid-palindrome.js)<br>
+└── 📄 [Two Sum II](apr-06-two-sum-2.js)<br>
