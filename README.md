@@ -17,10 +17,11 @@ Started: April 1st 2026
 | 5 | Apr 5 | Longest Consecutive Sequence | HashSet | Medium |
 | 6 | Apr 6 | Valid Palindrome | Two Pointers | Easy |
 | 6 | Apr 6 | Two Sum II | Two Pointers | Medium |
-
+| 7 | Apr 7 | Three Sum | Two Pointers | Medium |
+| 7 | Apr 7 | Container with most water | Two Pointers | Medium |
 ## Stats
-- Problems Solved: 11
-- Current Streak: 6 days
+- Problems Solved: 12
+- Current Streak: 7 days
 - Target: 150 problems by August 2026
 
 ## Patterns Covered
@@ -48,3 +49,5 @@ daily-solutions/<br>
 ├── 📄 [Longest Consecutive Sequence](apr-05-longest-consecutive-sequence.js)<br>
 ├── 📄 [Valid Palindrome](apr-06-valid-palindrome.js)<br>
 └── 📄 [Two Sum II](apr-06-two-sum-2.js)<br>
+├── 📄 [Three Sum](apr-07-three-sum.js)<br>
+└── 📄 [Container with most water](apr-07-container-with-most-water.js)<br>
