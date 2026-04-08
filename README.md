@@ -17,11 +17,13 @@ Started: April 1st 2026
 | 5 | Apr 5 | Longest Consecutive Sequence | HashSet | Medium |
 | 6 | Apr 6 | Valid Palindrome | Two Pointers | Easy |
 | 6 | Apr 6 | Two Sum II | Two Pointers | Medium |
-| 7 | Apr 7 | Three Sum | Two Pointers | Medium |
-| 7 | Apr 7 | Container with most water | Two Pointers | Medium |
+| 7 | Apr 7 | Three Sum | Two Pointers + Sorting | Medium |
+| 7 | Apr 7 | Container With Most Water | Two Pointers | Medium |
+| 8 | Apr 8 | Trapping Rain Water | Prefix Max + Suffix Max / Two Pointers | Hard |
+
 ## Stats
-- Problems Solved: 12
-- Current Streak: 7 days
+- Problems Solved: 14
+- Current Streak: 8 days
 - Target: 150 problems by August 2026
 
 ## Patterns Covered
@@ -34,6 +36,8 @@ Started: April 1st 2026
 - Box Index Formula (Math.floor(i/3)*3 + Math.floor(j/3))
 - Consecutive Sequence Detection
 - Two Pointers
+- Prefix Max + Suffix Max
+- Space Optimization (O(N) → O(1))
 
 ## 📁 Structure
 
@@ -48,6 +52,7 @@ daily-solutions/<br>
 ├── 📄 [Valid Sudoku](apr-04-valid-sudoku.js)<br>
 ├── 📄 [Longest Consecutive Sequence](apr-05-longest-consecutive-sequence.js)<br>
 ├── 📄 [Valid Palindrome](apr-06-valid-palindrome.js)<br>
-└── 📄 [Two Sum II](apr-06-two-sum-2.js)<br>
+├── 📄 [Two Sum II](apr-06-two-sum-2.js)<br>
 ├── 📄 [Three Sum](apr-07-three-sum.js)<br>
-└── 📄 [Container with most water](apr-07-container-with-most-water.js)<br>
+├── 📄 [Container With Most Water](apr-07-container-with-most-water.js)<br>
+└── 📄 [Trapping Rain Water](apr-08-trapping-rain-water.js)<br>
