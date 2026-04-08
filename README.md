@@ -48,7 +48,7 @@ daily-solutions/<br>
 ├── 📄 [Group Anagrams](apr-02-group-anagram.js)<br>
 ├── 📄 [Top K Frequent Elements](apr-03-top-k-frequent-elements.js)<br>
 ├── 📄 [Encode and Decode Strings](apr-03-encode-decode-strings.js)<br>
-├── 📄 [Product of Array Except Self](apr-04-product-except-self.js)<br>
+├── 📄 [Product of Array Except Self](apr-04-product-of-array-except-self.js)<br>
 ├── 📄 [Valid Sudoku](apr-04-valid-sudoku.js)<br>
 ├── 📄 [Longest Consecutive Sequence](apr-05-longest-consecutive-sequence.js)<br>
 ├── 📄 [Valid Palindrome](apr-06-valid-palindrome.js)<br>
