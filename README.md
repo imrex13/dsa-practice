@@ -20,10 +20,12 @@ Started: April 1st 2026
 | 7 | Apr 7 | Three Sum | Two Pointers + Sorting | Medium |
 | 7 | Apr 7 | Container With Most Water | Two Pointers | Medium |
 | 8 | Apr 8 | Trapping Rain Water | Prefix Max + Suffix Max / Two Pointers | Hard |
+| 9 | Apr 9 | Best time to Buy and Sell Stocks | Sliding Window | Easy |
+| 9 | Apr 9 | Longest Substring Without Repeating Character | Sliding Window | Medium |
 
 ## Stats
-- Problems Solved: 14
-- Current Streak: 8 days
+- Problems Solved: 16
+- Current Streak: 9 days
 - Target: 150 problems by August 2026
 
 ## Patterns Covered
@@ -38,6 +40,7 @@ Started: April 1st 2026
 - Two Pointers
 - Prefix Max + Suffix Max
 - Space Optimization (O(N) → O(1))
+- Sliding Window
 
 ## 📁 Structure
 
@@ -56,3 +59,5 @@ daily-solutions/<br>
 ├── 📄 [Three Sum](apr-07-three-sum.js)<br>
 ├── 📄 [Container With Most Water](apr-07-container-with-most-water.js)<br>
 └── 📄 [Trapping Rain Water](apr-08-trapping-rain-water.js)<br>
+└── 📄 [Best Time to Buy Stocks](apr-09-best-time-to-buy-stocks.js)<br>
+└── 📄 [Longest Substring Without Repeating Character](apr-09-longest-substring-without-repeating-character.js)<br>
