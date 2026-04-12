@@ -24,10 +24,11 @@ Started: April 1st 2026
 | 9 | Apr 9 | Longest Substring Without Repeating Character | Sliding Window | Medium |
 | 10 | Apr 10 | Longest Repeating Character Replacement | Sliding Window | Medium |
 | 11 | Apr 11 | Permutation in String | Sliding Window + Frequency Array | Medium |
+| 12 | Apr 12 | Minimum Window Substring | Dynamic Sliding Window | Hard |
 
 ## Stats
-- Problems Solved: 18
-- Current Streak: 11 days
+- Problems Solved: 19
+- Current Streak: 12 days
 - Target: 150 problems by August 2026
 
 ## Patterns Covered
@@ -44,6 +45,7 @@ Started: April 1st 2026
 - Space Optimization (O(N) → O(1))
 - Sliding Window
 -  Frequency Array (size 26)
+- Dynamic Sliding Window
 
 ## 📁 Structure
 
@@ -66,3 +68,4 @@ daily-solutions/<br>
 └── 📄 [Longest Substring Without Repeating Character](apr-09-longest-substring-without-repeating-character.js)<br>
 └── 📄 [Longest Repeating Character Replacement](apr-10-longest-repeating-character-replacement.js)<br>
 └── 📄 [Permutation in String](apr-11-permutation-in-string.js)<br>
+└── 📄 [Minimum Window Substring](apr-12-mimimum-window-substring.js)<br>

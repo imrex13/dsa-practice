@@ -1,3 +1,7 @@
+// APR 11
+
+// 
+
 class Permutation_in_String{
     
 
@@ -48,14 +52,14 @@ return matches === 26;
 // Test 1
 let input1 = "ab"
 let input11 = "eidbaooo"
-let test1 = new Longest_Repeating_Character_Replacement
-let result1 = test1.longest_repeating_character_replacement(input1,input11)
+let test1 = new Permutation_in_String
+let result1 = test1.permutation_in_string(input1,input11)
 
 // Test2
 let input2 = "ab"
 let input22 = "eidboaoo"
-let test2 = new Longest_Repeating_Character_Replacement
-let result2 = test2.longest_repeating_character_replacement(input2,input22)
+let test2 = new Permutation_in_String
+let result2 = test2.permutation_in_string(input2,input22)
 
 console.log(result1); // 4
 console.log(result2); // 4
