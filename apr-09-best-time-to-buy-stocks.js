@@ -1,7 +1,7 @@
 // APR 9
 
 
-//
+// This is an easy problem where we have to use a combination of two pointer and sliding window to solve this problem. First we get the input and then we setup two pointers big & small. the Big pointer  look for selling values. Small pointer look for buying point. so we start the small pointer at the start and the big pointer one step ahead of small pointer and we iterate through the array each time we move the big pointer one step while looking for max_profit. In the while loop we check if the current big value is smaller than the current small value if yes we move the small pointer to the big position and move the big pointer one step ahead. if the if condition is false we subtract the small value from big value and check if the profit is bigger than the already stored profit if yes we store the current profit. If not we did not store the current profit as we are only looking for the highest profit. we run the loop untill the big pointer reaches the end of the array and we return the Max_profit.    
 
 
 class Best_Time_to_Buy_Stocks{
